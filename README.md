@@ -2,7 +2,7 @@
 A Better Discord theme that makes Discord interium.ooo styled.
 
 # Screenshots
-![Theme1](https://a.pomf.cat/qfnylb.PNG)
+![Theme1](https://a.pomf.cat/rjecns.PNG)
 
 # How to install
 1. Go to [Better Discord](https://betterdiscord.net/home/), download and install Better Discord.
